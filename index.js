@@ -14,7 +14,7 @@
  * Make commands for shapes (done rectangle, strokerect)
  * Sharding
  * Images (possibly by URL)
- * 
+ * Better settings
  */
 
 require('dotenv').config();
