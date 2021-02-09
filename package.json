@@ -1,0 +1,19 @@
+{
+  "name": "discord-fuck-mom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hri7566",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "canvas-node": "^0.3.23",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
